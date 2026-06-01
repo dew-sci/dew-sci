@@ -16,7 +16,6 @@ Physics Undergraduate from Sri Lanka
 ## Current Projects
 
 - MRI Tumor Grade Classification using ADC Maps
-- Ultrasound + AI Research
 - Medical Image Analysis
 
 ## Skills
